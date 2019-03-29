@@ -1,0 +1,11 @@
+The hints that are given out are
+Shadow
+Password
+Here's Johnny
+
+Where this is to decrypt a shadow password using a progam called
+"John the Ripper"
+
+Find out more here "https://github.com/magnumripper/JohnTheRipper"
+
+This will be quite the write up, so I'll finish this later

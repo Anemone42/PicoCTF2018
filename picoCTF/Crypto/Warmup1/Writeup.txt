@@ -1,0 +1,7 @@
+This is known as Vigenère's Cipher
+Where even a table, message and key,
+Use Message[i] and added by Key[i] % 26 to encypt the text
+Thus to decrpyt the text, is by
+encrypt[i] + key[i] % 26 = message[i]
+
+I have written a script in python to solve it and print the answer

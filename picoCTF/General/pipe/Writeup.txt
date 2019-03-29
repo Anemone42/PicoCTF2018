@@ -1,0 +1,5 @@
+Connecting to this host and port, will spam the terminal of echos
+Thus making it hard for the user to find the answer
+This is where piping comes in.
+Combined with grep, it will only grab the keyword search item
+and return it to the user.

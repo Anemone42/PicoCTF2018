@@ -1,0 +1,4 @@
+The use of Wireshark isnt needed
+as the user is able to use the command stings,
+to get data from the file, and grep the flag out
+using the keyword 'picoCTF{.\*}'

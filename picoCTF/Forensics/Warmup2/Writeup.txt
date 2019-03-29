@@ -1,0 +1,5 @@
+The file was renamed as "PNG"
+Using the "file" command
+It was able to determine that the file is actually a JPG file
+So renaming the file to "filename" '.jpg', at the end. 
+It was finally able to be regonized and open

@@ -1,0 +1,8 @@
+I had to use the hint for this one 
+I have used the java version of stego-saurus,
+and came out to no avail
+
+Thus following the hint, I have found an online decoder called
+"https://stylesuxx.github.io/steganography/"
+
+Uploading the file there, revealed the answer

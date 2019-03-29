@@ -1,0 +1,4 @@
+Looking at some nc examples
+The nc command takes a [ip/domain name] [port] to connent to
+
+Connecting to this spits out the answer for this problem

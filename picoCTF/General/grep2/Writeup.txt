@@ -1,0 +1,3 @@
+A quick way to search though many directories and files
+Is to use the grep "-R" argument, paired up with -E for a more
+definite search, will make sure the flag is found

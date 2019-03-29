@@ -1,0 +1,3 @@
+A simple unzipping a compessed file
+Opening the picture and copying the text 
+from the picture is the answer

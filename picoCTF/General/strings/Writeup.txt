@@ -1,0 +1,4 @@
+Strings is a command at allows the user to read not human readable data
+However once the command "strings strings" is ran, a large amount of data is dumpped
+Piping this to grep, will allow finding the flag a lot easier
+Once so, the flag is obtained
