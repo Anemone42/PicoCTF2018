@@ -1,7 +1,12 @@
 This is known as Vigenère's Cipher
-Where even a table, message and key,
-Use Message[i] and added by Key[i] % 26 to encypt the text
+Where given a table,
+Use the gird alinement from message[i] and key[i], to obtain the decrpyt[i] 
+
+The Solve:
+Use Message[i] and added by Key[i] % 26 to encypt the text 
+(Where mess and key of [i] is in alpha to number, e.g a=0, b=1, c=2 ... z=25)
+
 Thus to decrpyt the text, is by
 encrypt[i] + key[i] % 26 = message[i]
 
-I have written a script in python to solve it and print the answer
+I have written a script in python to solve the following and print the answer
